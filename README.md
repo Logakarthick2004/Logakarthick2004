@@ -23,18 +23,16 @@
 
 </td>
 <td width="62%" valign="middle">
-
 ### 🚀 Featured Full Stack Projects
 
 | 🚀 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🌌 Space Portfolio](https://github.com/Logakarthick2004/space-protfolio) | `HTML` `CSS` `JS` | 25 |
-| [⚡ Full Stack Web App](https://github.com/Logakarthick2004) | `React` `Python` `SQL` | 15 |
-| [🌐 Responsive Dashboard](https://github.com/Logakarthick2004) | `HTML` `CSS` `JS` | 12 |
-| [🐍 Python Utilities](https://github.com/Logakarthick2004) | `Python` | 10 |
-| [💻 Interactive Web Suite](https://github.com/Logakarthick2004) | `JavaScript` `React` | 8 |
-
-<br/>
+|:---|:---:|---:|
+| [🤖 Iron-Man](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://iron-man-psi.vercel.app) | `HTML` `Tailwind` `Framer Motion` | — |
+| [⚡ Karzo AI](https://github.com/Logakarthick2004/Karzo-Ai) <br> [🌐 Live Demo](https://karzo-ai.vercel.app) | `React` `TypeScript` `Vite` `Tailwind` | — |
+| [🏋️ FitEntry](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://fit-entry.vercel.app) | `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` | — |
+| [💼 Personal Portfolio](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://personal-portfolio-mu-sooty-43.vercel.app) | `HTML` `CSS` `JavaScript` | — |
+| [🛒 Organic Product](https://github.com/Logakarthick2004) | `Django` `Python` `MySQL` | — |
+| [🏢 Ereckon ERP](https://github.com/Logakarthick2004) | `Laravel` `PHP` `Vite` | — |
 
 > 💙 *"Code is my art, Logic is my superpower."*
 
