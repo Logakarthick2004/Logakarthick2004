@@ -27,12 +27,12 @@
 
 | 🚀 Project | 💻 Tech | ⭐ |
 |:---|:---:|---:|
-| [🤖 Iron-Man](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://iron-man-psi.vercel.app) | `HTML` `Tailwind` `Framer Motion` | — |
+| [🏢 ERP + HRMS](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://erp-hrms-three.vercel.app) |  `React` `PostgreSQL` | — |
 | [⚡ Karzo AI](https://github.com/Logakarthick2004/Karzo-Ai) <br> [🌐 Live Demo](https://karzo-ai.vercel.app) | `React` `TypeScript` `Vite` `Tailwind` | — |
-| [🏋️ FitEntry](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://fit-entry.vercel.app) | `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` | — |
+| [🏋️ FitEntry](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://fit-entry.vercel.app) | `React` `TypeScript` `Node.js` `Express` `PostgreSQL``Prisma` | — |
+| [🤖 Iron-Man](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://iron-man-psi.vercel.app) | `HTML` `Tailwind` `Framer Motion` | — |
 | [💼 Personal Portfolio](https://github.com/Logakarthick2004) <br> [🌐 Live Demo](https://personal-portfolio-mu-sooty-43.vercel.app) | `HTML` `CSS` `JavaScript` | — |
 | [🛒 Organic Product](https://github.com/Logakarthick2004) | `Django` `Python` `MySQL` | — |
-| [🏢 Ereckon ERP](https://github.com/Logakarthick2004) | `Laravel` `PHP` `Vite` | — |
 
 > 💙 *"Code is my art, Logic is my superpower."*
 
